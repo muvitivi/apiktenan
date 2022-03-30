@@ -1,8 +1,8 @@
 [ {
   "is_active" : true,
   "top_banner" : true,
-  "time_interval" : 13000000000,
-  "time_after_load" : 3000000000,
+  "time_interval" : 13000,
+  "time_after_load" : 30000,
   "id_banner" : "c4b43ec0e882c91f",
   "id_inters" : "xxxxxxx"
 } ]
