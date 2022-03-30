@@ -13,11 +13,11 @@
   "pack_irc" : "",
   "pe1_irc" : 1260,
   "pe2_irc" : 1270,
-  "status_irc" : false,
+  "status_irc" : true,
   
   "note" : "UNITY ADS",
   "id_una" : 3874087,
-  "init_una" : 70,
+  "init_una" : 660,
   "name_una" : "video",
   "pack_una" : "",
   "pe1_una" : 1860,
