@@ -1,10 +1,10 @@
 [ {
   "note" : "ADMOB",
   "id_adm" : "ca-app-pub-3940256099942544/1033173712",
-  "init_adm" : 10,
+  "init_adm" : 150,
   "pack_adm" : "",
-  "pe1_adm" : 60,
-  "pe2_adm" : 180,
+  "pe1_adm" : 700,
+  "pe2_adm" : 730,
   "status_adm" : false,
   
   "note" : "IRONSOURCE",
