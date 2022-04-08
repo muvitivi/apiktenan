@@ -11,17 +11,17 @@
   "id_irc" : "f6bcb4a1",
   "init_irc" : 60,
   "pack_irc" : "",
-  "pe1_irc" : 1260,
-  "pe2_irc" : 1270,
+  "pe1_irc" : 960,
+  "pe2_irc" : 970,
   "status_irc" : true,
   
   "note" : "UNITY ADS",
   "id_una" : 3874087,
-  "init_una" : 660,
+  "init_una" : 90,
   "name_una" : "video",
   "pack_una" : "",
-  "pe1_una" : 1860,
-  "pe2_una" : 1870,
+  "pe1_una" : 990,
+  "pe2_una" : 1000,
   "status_una" : true,
   "testMode_una" : false
 } ]
